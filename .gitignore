@@ -2,3 +2,5 @@
 node_modules/
 npm-debug.log
 extension/js
+createlink-*.zip
+package-lock.json
