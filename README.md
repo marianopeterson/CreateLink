@@ -25,12 +25,19 @@ The configuration above gives you following text.
 
 ## Build
 
-webpack is used for building application code. Run
+```sh
+npm install
+make
+```
+
+## Develop
+
+webpack is used for building application code. Run the following command to
+have webpack watch for changes and automatically generate js files:
 
 ```sh
 make watch
 ```
-to watch the changes and generate js files.
 
 ## Test
 
